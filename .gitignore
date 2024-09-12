@@ -1,0 +1,5 @@
+#virtual env 
+sisense/
+
+#the example attributes listed for the trial api url and key
+atts_list.txt
